@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokeDex GO</string>
+    <string name="nome">Nome</string>
+    <string name="tipo">Tipo</string>
+    <string name="fraqueza">Fraqueza</string>
+    <string name="detalhes">DETALHES</string>
+</resources>
